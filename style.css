@@ -344,6 +344,18 @@ ul {
     text-align: center;
 }
 
+
+.btn-twitch {
+    background-color: #9146FF;
+    color: #ffffff;
+    box-shadow: 0 0 15px rgba(145, 70, 255, 0.4);
+}
+
+.btn-twitch:hover {
+    background-color: #772ce8;
+    box-shadow: 0 0 25px rgba(145, 70, 255, 0.7);
+}
+
 .hero-content {
     max-width: 800px;
     margin: 0 auto;
